@@ -1,0 +1,33 @@
+{
+  "header": {
+    "work-schedule": "Seg-Sex, 8:00 - 18:00"
+  },
+  "navbar": {
+    "home": "Inicio",
+    "about-us": "Sobre nós",
+    "services": "Serviços",
+    "portfolio": "Portfólio",
+    "contact-us": "Contate-nos"
+  },
+
+  "languages": {
+    "pt": "Português",
+    "en": "Inglês",
+    "fr": "Francês",
+    "es": "Espanhol"
+  },
+
+  "footer": {
+    "links": {
+      "title": "Links Úteis"
+    },
+
+    "contacts": {
+      "title": "Contatos"
+    },
+
+    "base": {
+      "rights": "Todos os direitos reservados a Pássaro Azul Segurança Privada. {{year}}"
+    }
+  }
+}

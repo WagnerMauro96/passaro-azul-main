@@ -1,0 +1,125 @@
+{
+  "banner": {
+    "title": "Security and Trust that Fly High with You",
+    "label": "At Pássaro Azul Segurança Privada, we offer safe and personalized solutions to protect what is most important to you, with excellence and professionalism in each service.",
+    "button": "Learn More",
+    "cntact-us": "Contact us"
+  },
+  "our-clients": {
+    "title": "Our Clients",
+    "label": "Clients satisfied with our private security services, ensuring protection and peace of mind in all situations. Meet those who trust Pássaro Azul."
+  },
+  "about-us": {
+    "title": "Get to know Pássaro Azul: Excellence and Protection",
+    "label": "Pássaro Azul Segurança Privada, Lda., is a young but very dynamic Angolan company that is truly committed to growing and solidifying its position in the private security market, managed by experienced professionals.",
+    "span": "Blue Bird: Your trust, our greatest mission.",
+    "spans": {
+      "span-1": "We put ourselves in our customers’ shoes, anticipating their needs and offering valuable solutions on a daily basis.",
+      "span-2": "We guarantee the protection of your business with cutting-edge technology and specialized services."
+    },
+    "mission": {
+      "title": "Our mission",
+      "label": "Provide services and products of the highest quality and professionalism to protect people and assets. "
+    },
+    "vision": {
+      "title": "Our vision",
+      "label": "Provide services of excellent quality, innovation and value, be recognized as a reference in ethics, professionalism, respect and solutions for customers and employees, promoting high levels of satisfaction."
+    },
+    "our-values": {
+      "title": "Our values",
+      "label": "Our principle is quality, innovation and respect, recognizing customers and employees as a reference in private security.",
+      "values": {
+        "trust": {
+          "title": "Trust",
+          "label": "The basis for building lasting, transparent and secure relationships with our customers, partners and employees."
+        },
+        "excellent_service": {
+          "title": "Excellent Quality Service",
+          "label": "Our commitment is to exceed expectations, ensuring differentiated service and high standard results."
+        },
+        "human_value": {
+          "title": "Human Valuation",
+          "label": "We put people at the center of our actions, promoting respect, empathy and mutual growth."
+        },
+        "operational_competence": {
+          "title": "Operational Competence",
+          "label": "We guarantee the efficient and qualified execution of processes, always seeking excellence in our operations."
+        },
+        "continuous_training": {
+          "title": "Continuous Training",
+          "label": "We believe in constant learning as a tool for innovation, personal and professional development."
+        }
+      }
+    },
+    "our-services": {
+      "title": "Our services",
+      "label": "Private security services to protect what is most important, with excellence and professionalism.",
+      "security_services": {
+        "title": "Property Security",
+        "label": "Complete property protection, ensuring the safety of assets, facilities and resources against possible threats."
+      },
+      "personalized_security": {
+        "title": "Custom Security",
+        "label": "Tailor-made security solutions, adapted to the specific needs of each client or situation."
+      },
+      "event_security": {
+        "title": "Event Security",
+        "label": "Planning and executing strategies to ensure the protection and smooth running of events of any size."
+      },
+      "electronic_security": {
+        "title": "Electronic Security",
+        "label": "Cutting-edge technology with modern monitoring, alarms and access control systems for greater efficiency."
+      },
+      "security_consulting": {
+        "title": "Security Consulting",
+        "label": "Expert analysis and strategic recommendations to implement effective security solutions."
+      },
+      "security_central": {
+        "title": "24h Security Center",
+        "label": "Continuous monitoring and immediate support, available at any time to respond to emergencies and prevent risks."
+      },
+      "patrol_services": {
+        "title": "Rounds",
+        "label": "Regular patrolling service to ensure surveillance and tranquility in residential, commercial or industrial areas."
+      }
+    }
+  },
+  "details": {
+    "card-1": {
+      "title": "Personalized Protection",
+      "label": "At Pássaro Azul Segurança Privada, we adapt our services to your specific needs. "
+    },
+    "card-2": {
+      "title": "Cutting-edge Technology",
+      "label": "We use advanced technology for monitoring and electronic security, providing peace of mind with modern and efficient systems. "
+    },
+    "card-3": {
+      "title": "Specialized Team",
+      "label": "Our team is made up of highly trained professionals committed to ensuring your protection. "
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "label": "Pássaro Azul Private Security offers personalized security solutions to protect what is most important, with excellence and professionalism."
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "label": "Fill out the form and our team will get back to you shortly. ",
+    "form": {
+      "email": "E-mail",
+      "name": "Name",
+      "message": "Message",
+      "send": "Send",
+      "messages": {
+        "success": "Your message has been successfully sent. We will contact you shortly.",
+        "error": "An error occurred while sending your message. Please try again.",
+        "sending": "Sending message..."
+      }
+    }
+  
+  },
+  "map": {
+    "title": "We are here for you",
+    "label": "Address: Rua Santa Luzia, Samba, Luanda - Angola. "
+  }
+}

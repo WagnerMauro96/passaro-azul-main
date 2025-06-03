@@ -1,0 +1,138 @@
+{
+  "banner": {
+    "title": "Segurança e Confiança que Voam Alto com Você",
+    "label": "Na Pássaro Azul Segurança Privada, oferecemos soluções seguras e personalizadas para proteger o que é mais importante para você, com excelência e profissionalismo em cada serviço.",
+    "button": "Saiba Mais",
+    "cntact-us": "Contate-nos"
+  },
+  "our-clients": {
+    "title": "Nossos Clientes",
+    "label": "Clientes satisfeitos com nossos serviços de segurança privada, que garantem proteção e tranquilidade em todas as situações. Conheça quem confia na Pássaro Azul."
+  },
+  "about-us": {
+    "title": "Conheça a Pássaro Azul: Excelência e Proteção",
+
+    "label": "Pássaro Azul Segurança Privada, Lda., é uma empresa angolana jovem, mas muito dinâmica e que está verdadeiramente empenhada em crescer e solidificar a sua posição no mercado da segurança privada, administrada por profissionais com experiência.",
+
+    "span": "Pássaro Azul: Sua confiança, nossa maior missão.",
+
+    "spans": {
+      "span-1": "Nos colocamos no lugar dos nossos clientes, antecipando suas necessidades e oferecendo soluções valiosas no dia a dia.",
+      "span-2": "Garantimos a proteção do seu negócio com tecnologia de ponta e serviços especializados."
+    },
+
+    "mission": {
+      "title": "Nossa missão",
+      "label": "Disponibilizar serviços e produtos de altíssima  qualidade e o profissionalismo para protecção de pessoas e patrimónios. Ter como meta a superação de todas as necessidades dos nossos clientes através da ética, moral, disciplina e dedicação constante com foco em um cenário de harmonia e tranquilidade para a plena realização de suas actividades afins."
+    },
+
+    "vision": {
+      "title": "Nossa visão",
+      "label": "Prestar serviços de excelente qualidade, inovação e valor, ser reconhecido como referência em ética, profissionalismo, respeito e soluções para clientes e colaboradores, promovendo altos níveis de satisfação."
+    },
+
+    "our-values": {
+      "title": "Nossos valores",
+      "label": "Nosso princípio é qualidade, inovação e respeito, reconhecendo clientes e colaboradores como referência na segurança privada.",
+
+      "values": {
+        "trust": {
+          "title": "Confiança",
+          "label": "A base para construir relações duradouras, transparentes e seguras com nossos clientes, parceiros e colaboradores."
+        },
+        "excellent_service": {
+          "title": "Serviço de Excelente Qualidade",
+          "label": "Nosso compromisso é superar expectativas, garantindo um atendimento diferenciado e resultados de alto padrão."
+        },
+        "human_value": {
+          "title": "Valorização Humana",
+          "label": "Colocamos as pessoas no centro de nossas ações, promovendo respeito, empatia e crescimento mútuo."
+        },
+        "operational_competence": {
+          "title": "Competência Operacional",
+          "label": "Garantimos a execução eficiente e qualificada de processos, buscando sempre a excelência em nossas operações."
+        },
+        "continuous_training": {
+          "title": "Treinamento Contínuo",
+          "label": "Acreditamos no aprendizado constante como ferramenta para inovação, desenvolvimento pessoal e profissional."
+        }
+      }
+    },
+
+    "our-services": {
+      "title": "Nossos serviços",
+      "label": "Serviços de segurança privada para proteger o que é mais importante, com excelência e profissionalismo.",
+      "security_services": {
+        "title": "Segurança Patrimonial",
+        "label": "Proteção completa de propriedades, garantindo a segurança de bens, instalações e recursos contra possíveis ameaças."
+      },
+      "personalized_security": {
+        "title": "Segurança Personalizada",
+        "label": "Soluções de segurança sob medida, adaptadas às necessidades específicas de cada cliente ou situação."
+      },
+      "event_security": {
+        "title": "Segurança de Eventos",
+        "label": "Planejamento e execução de estratégias para garantir a proteção e o bom andamento de eventos de qualquer porte."
+      },
+      "electronic_security": {
+        "title": "Segurança Eletrônica",
+        "label": "Tecnologia de ponta com sistemas modernos de monitoramento, alarmes e controle de acesso para maior eficiência."
+      },
+      "security_consulting": {
+        "title": "Consultoria em Segurança",
+        "label": "Análise especializada e recomendações estratégicas para implementar soluções eficazes de segurança."
+      },
+      "security_central": {
+        "title": "Central de Segurança 24h",
+        "label": "Monitoramento contínuo e suporte imediato, disponível a qualquer hora para atender emergências e prevenir riscos."
+      },
+      "patrol_services": {
+        "title": "Rondas",
+        "label": "Serviço de patrulhamento regular para garantir a vigilância e a tranquilidade em áreas residenciais, comerciais ou industriais."
+      }
+    }
+  },
+
+  "details": {
+    "card-1": {
+      "title": "Proteção Personalizada",
+      "label": "Na Pássaro Azul Segurança Privada, adaptamos nossos serviços às suas necessidades específicas. Seja para residências, empresas ou eventos, garantimos soluções personalizadas com total confiança e excelência."
+    },
+
+    "card-2": {
+      "title": "Tecnologia de Ponta",
+      "label": "Utilizamos tecnologia avançada para monitoramento e segurança eletrônica, proporcionando tranquilidade com sistemas modernos e eficientes. Com a nossa Central 24h, você está sempre protegido."
+    },
+    "card-3": {
+      "title": "Equipe Especializada",
+      "label": "Nossa equipe é composta por profissionais altamente treinados e comprometidos em garantir sua proteção. Com treinamento contínuo, estamos prontos para lidar com qualquer situação com competência e respeito."
+    }
+  },
+
+  "portfolio": {
+    "title": "Portfólio",
+    "label": "A Pássaro Azul Segurança Privada oferece soluções de segurança personalizadas para proteger o que é mais importante, com excelência e profissionalismo."
+  },
+
+  "contact-us": {
+    "title": "Fale Conosco",
+    "label": "Preencha o formulário e nossa equipe retornará em breve. Sua segurança é nossa prioridade!",
+
+    "form": {
+      "email": "E-mail",
+      "name": "Nome",
+      "message": "Mensagem",
+      "send": "Enviar",
+      "messages": {
+        "success": "Sua mensagem foi enviada com sucesso. Entraremos em contato em breve.",
+        "error": "Ocorreu um erro ao enviar sua mensagem. Por favor, tente novamente.",
+        "sending": "Enviando mensagem..."
+      }
+    }
+  },
+
+  "map": {
+    "title": "Estamos Aqui para Você",
+    "label": "Endereço: Rua Santa Luzia, Samba, Luanda - Angola. Encontre-nos em uma localização central e de fácil acesso. Estamos prontos para atender suas necessidades de segurança com profissionalismo e agilidade."
+  }
+}

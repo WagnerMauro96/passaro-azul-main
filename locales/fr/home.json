@@ -1,0 +1,124 @@
+{
+  "banner": {
+    "title": "Une sécurité et une confiance qui volent haut avec vous",
+    "label": "Chez Pássaro Azul Segurança Privada, nous proposons des solutions sûres et personnalisées pour protéger ce qui est le plus important pour vous, avec excellence et professionnalisme dans chaque service.",
+    "button": "Apprendre encore plus",
+    "cntact-us": "Contactez-nous"
+  },
+  "our-clients": {
+    "title": "Nos Clients",
+    "label": "Clients satisfaits de nos services de sécurité privée, garantissant protection et tranquillité d'esprit en toutes circonstances. Découvrez ceux qui font confiance à Pássaro Azul."
+  },
+  "about-us": {
+    "title": "Apprenez à connaître Pássaro Azul: Excellence et Protection",
+    "label": "Pássaro Azul Segurança Privada, Lda., est une entreprise angolaise jeune mais très dynamique, véritablement engagée à développer et à consolider sa position sur le marché de la sécurité privée, gérée par des professionnels expérimentés.",
+    "span": "Blue Bird : Votre confiance, notre plus grande mission.",
+    "spans": {
+      "span-1": "Nous nous mettons à la place de nos clients, anticipons leurs besoins et proposons des solutions précieuses au quotidien.",
+      "span-2": "Nous garantissons la protection de votre entreprise avec une technologie de pointe et des services spécialisés."
+    },
+    "mission": {
+      "title": "Notre mission",
+      "label": "Fournir des services et des produits de la plus haute qualité et professionnalisme pour protéger les personnes et les biens. "
+    },
+    "vision": {
+      "title": "Notre vision",
+      "label": "Fournir des services d'excellente qualité, d'innovation et de valeur, être reconnu comme une référence en matière d'éthique, de professionnalisme, de respect et de solutions pour les clients et les employés, favorisant des niveaux élevés de satisfaction."
+    },
+    "our-values": {
+      "title": "Nos valeurs",
+      "label": "Notre principe est la qualité, l'innovation et le respect, reconnaissant les clients et les employés comme une référence en matière de sécurité privée.",
+      "values": {
+        "trust": {
+          "title": "Confiance",
+          "label": "La base pour construire des relations durables, transparentes et sécurisées avec nos clients, partenaires et collaborateurs."
+        },
+        "excellent_service": {
+          "title": "Service d'excellente qualité",
+          "label": "Notre engagement est de dépasser les attentes, en garantissant un service différencié et des résultats de haut niveau."
+        },
+        "human_value": {
+          "title": "Valorisation humaine",
+          "label": "Nous plaçons les personnes au centre de nos actions, en promouvant le respect, l'empathie et la croissance mutuelle."
+        },
+        "operational_competence": {
+          "title": "Compétence opérationnelle",
+          "label": "Nous garantissons l’exécution efficace et qualifiée des processus, en recherchant toujours l’excellence dans nos opérations."
+        },
+        "continuous_training": {
+          "title": "Formation Continue",
+          "label": "Nous croyons en l’apprentissage constant comme outil d’innovation et de développement personnel et professionnel."
+        }
+      }
+    },
+    "our-services": {
+      "title": "Nos prestations",
+      "label": "Des services de sécurité privés pour protéger ce qui est le plus important, avec excellence et professionnalisme.",
+      "security_services": {
+        "title": "Sécurité des biens",
+        "label": "Protection complète des biens, garantissant la sécurité des actifs, des installations et des ressources contre d'éventuelles menaces."
+      },
+      "personalized_security": {
+        "title": "Sécurité personnalisée",
+        "label": "Des solutions de sécurité sur mesure, adaptées aux besoins spécifiques de chaque client ou situation."
+      },
+      "event_security": {
+        "title": "Sécurité des événements",
+        "label": "Planifier et exécuter des stratégies pour assurer la protection et le bon déroulement d’événements de toute taille."
+      },
+      "electronic_security": {
+        "title": "Sécurité électronique",
+        "label": "Une technologie de pointe avec des systèmes modernes de surveillance, d’alarme et de contrôle d’accès pour une plus grande efficacité."
+      },
+      "security_consulting": {
+        "title": "Conseil en sécurité",
+        "label": "Analyse d'experts et recommandations stratégiques pour mettre en œuvre des solutions de sécurité efficaces."
+      },
+      "security_central": {
+        "title": "Centre de sécurité 24h/24",
+        "label": "Surveillance continue et assistance immédiate, disponible à tout moment pour répondre aux urgences et prévenir les risques."
+      },
+      "patrol_services": {
+        "title": "Tours",
+        "label": "Service de patrouille régulier pour assurer la surveillance et la tranquillité dans les zones résidentielles, commerciales ou industrielles."
+      }
+    }
+  },
+  "details": {
+    "card-1": {
+      "title": "Protection personnalisée",
+      "label": "Chez Pássaro Azul Segurança Privada, nous adaptons nos services à vos besoins spécifiques. "
+    },
+    "card-2": {
+      "title": "Technologie de pointe",
+      "label": "Nous utilisons une technologie avancée pour la surveillance et la sécurité électronique, offrant une tranquillité d'esprit grâce à des systèmes modernes et efficaces. "
+    },
+    "card-3": {
+      "title": "Équipe spécialisée",
+      "label": "Notre équipe est composée de professionnels hautement qualifiés et engagés à assurer votre protection. "
+    }
+  },
+  "portfolio": {
+    "title": "Portefeuille",
+    "label": "Pássaro Azul Private Security propose des solutions de sécurité personnalisées pour protéger ce qui est le plus important, avec excellence et professionnalisme."
+  },
+  "contact-us": {
+    "title": "Contactez-nous",
+    "label": "Remplissez le formulaire et notre équipe vous répondra sous peu. ",
+    "form": {
+      "email": "E-mail",
+      "name": "Nom",
+      "message": "Message",
+      "send": "Envoyer",
+      "messages": {
+        "success": "Votre message a été envoyé avec succès. Nous vous contacterons sous peu.",
+        "error": "Une erreur est survenue lors de l'envoi de votre message. Veuillez réessayer.",
+        "sending": "Envoi du message..."
+      }
+    }
+  },
+  "map": {
+    "title": "Nous sommes là pour vous",
+    "label": "Adresse : Rua Santa Luzia, Samba, Luanda - Angola. "
+  }
+}

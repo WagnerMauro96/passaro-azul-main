@@ -1,0 +1,29 @@
+{
+  "header": {
+    "work-schedule": "Mon-Fri, 8:00 - 18:00"
+  },
+  "navbar": {
+    "home": "Start",
+    "about-us": "About us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact-us": "Contact us"
+  },
+  "languages": {
+    "pt": "Portuguese",
+    "en": "English",
+    "fr": "French",
+    "es": "Spanish"
+  },
+  "footer": {
+    "links": {
+      "title": "Useful Links"
+    },
+    "contacts": {
+      "title": "Contacts"
+    },
+    "base": {
+      "rights": "All rights reserved to Pássaro Azul Private Security. {{year}}"
+    }
+  }
+}
